@@ -16,6 +16,12 @@ Une fois les choix techniques validés, j'ai déployé la solution dans un envir
 Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des serveurs situés sur le territoire européen afin de respecter les contraintes du RGPD et ne pas engendrer de coût trop élevé.
 
 ## Objectifs du projet
+- Faire une ACP en PySpark
+- Utiliser le cloud AWS (EMR, S3, IAM)
+- Démonstration de la mise en place d'une instance AWS
+- Respecter les contraintes du RGPD, et de coût à limiter en paramétrant correctement l'installation afin d’utiliser des serveurs situés sur le territoire européen 
+
+## Compétences évaluées
 - Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
 - Identifier les outils du cloud permettant de mettre en place un environnement Big Data
 - Paralléliser des opérations de calcul avec Pyspark
