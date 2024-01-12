@@ -10,7 +10,7 @@ Et c'est donc l'objet de la mission :
 Dans un contexte de gros volume de données et donc d'environnement Big Data, il s'agissait ici de développer les 1ères briques de cette application mobile en se servant d'un notebook réalisé par un alternant qui vient de quitter l'entreprise. Ce travail a servi de point de départ pour la chaîne de traitement de données, et je l'ai complété avec une étape de réduction de dimensions des features.
 
 Le projet a été réalisé en 2 temps, dans deux environnements différents.
-J'ai dans un premier temps développé et exécuté le code en local, en travaillant sur un nombre limité d'images à traiter.
+J'ai, dans un premier temps, développé et exécuté le code en local, en travaillant sur un nombre limité d'images à traiter.
 Une fois les choix techniques validés, j'ai déployé la solution dans un environnement Big Data en mode distribué.
 
 Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des serveurs situés sur le territoire européen afin de respecter les contraintes du RGPD et ne pas engendrer de coût trop élevé.
