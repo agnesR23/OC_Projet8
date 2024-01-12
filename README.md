@@ -1,4 +1,7 @@
 # OC_Projet8
+## Créé par Agnès Regaud
+
+## Sujet
 Je suis Data Scientist dans une jeune start-up de l'AgriTech nommée Fruits qui cherche à proposer des solutions innovantes pour la récolte des fruits.
 Leur objectif est de préserver la biodiversité des fruits en développant des robots cueilleurs intelligents qui permettraient un traitement spécifique de chaque espèce de fruits.
 Cette start-up veut commencer à se faire connaître tout d'abord en mettant à disposition du grand public une application mobile permettant aux utilisateurs de prendre en photo un fruit afin d'obtenir des informations sur ce fruit.
@@ -11,3 +14,8 @@ J'ai dans un premier temps développé et exécuté le code en local, en travail
 Une fois les choix techniques validés, j'ai déployé la solution dans un environnement Big Data en mode distribué.
 
 Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des serveurs situés sur le territoire européen afin de respecter les contraintes du RGPD et ne pas engendrer de coût trop élevé.
+
+## Objectifs du projet
+- Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
+- Identifier les outils du cloud permettant de mettre en place un environnement Big Data
+- Paralléliser des opérations de calcul avec Pyspark
