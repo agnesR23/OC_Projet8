@@ -1,4 +1,4 @@
-# Projet8 OpenClassrooms: Déployer un modèle sur le cloud
+# Projet 8 OpenClassrooms Data Scientist : Déployer un modèle sur le cloud
 ## Créé par Agnès Regaud
 
 ## Sujet
