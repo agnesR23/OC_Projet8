@@ -1,4 +1,4 @@
-# OC_Projet8 : Déployer un modèle sur le cloud
+# Projet8 OpenClassrooms: Déployer un modèle sur le cloud
 ## Créé par Agnès Regaud
 
 ## Sujet
