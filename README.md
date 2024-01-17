@@ -20,7 +20,7 @@ Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des
 - scripts en Pyspark : préprocessing et PCA
 - architecture Big Data : Utiliser le cloud AWS (EMR, S3, IAM)
 - Démonstration en direct de la mise en place d'une instance AWS
-- Respecter les contraintes du RGPD, et de coût à limiter en paramétrant correctement l'installation afin d’utiliser des serveurs situés sur le territoire européen 
+- Respect des contraintes du RGPD, et de coût à limiter en paramétrant correctement l'installation afin d’utiliser des serveurs situés sur le territoire européen 
 
 ## Compétences évaluées
 - Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
