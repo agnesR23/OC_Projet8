@@ -1,4 +1,4 @@
-# OC_Projet8
+# OC_Projet8 : Déployer un modèle sur le cloud
 ## Créé par Agnès Regaud
 
 ## Sujet
@@ -16,8 +16,9 @@ Une fois les choix techniques validés, j'ai déployé la solution dans un envir
 Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des serveurs situés sur le territoire européen afin de respecter les contraintes du RGPD et ne pas engendrer de coût trop élevé.
 
 ## Objectifs du projet
-- Faire une ACP en PySpark
-- Utiliser le cloud AWS (EMR, S3, IAM)
+- Hadoop en local
+- scripts en Pyspark : préprocessing et PCA
+- architecture Big Data : Utiliser le cloud AWS (EMR, S3, IAM)
 - Démonstration en direct de la mise en place d'une instance AWS
 - Respecter les contraintes du RGPD, et de coût à limiter en paramétrant correctement l'installation afin d’utiliser des serveurs situés sur le territoire européen 
 
