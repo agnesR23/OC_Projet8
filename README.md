@@ -17,8 +17,10 @@ Le script a été développé en PySpark et déposé sur le cloud d'AWS avec des
 
 ## Objectifs du projet
 - Hadoop en local
-- scripts en Pyspark : préprocessing et PCA
-- architecture Big Data : Utiliser le cloud AWS (EMR, S3, IAM)
+- Transfert Learning
+- Extraction features images,
+- Scripts en Pyspark : préprocessing et PCA
+- Architecture Big Data : Utiliser le cloud AWS (EMR, S3, IAM)
 - Démonstration en direct de la mise en place d'une instance AWS
 - Respect des contraintes du RGPD, et de coût à limiter en paramétrant correctement l'installation afin d’utiliser des serveurs situés sur le territoire européen 
 
